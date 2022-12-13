@@ -1,2 +1,2 @@
-FROM httpd:latest
-#FROM drupal:latest
+#FROM httpd:latest
+FROM drupal:latest
