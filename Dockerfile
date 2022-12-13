@@ -1,4 +1,4 @@
-FROM httpd:latest
+FROM caddy:latest
 
 
 
