@@ -1,2 +1,2 @@
-#FROM caddy:2.6.2-alpine
-FROM drupal:latest
+FROM caddy:2.6.1-alpine
+#FROM drupal:latest
