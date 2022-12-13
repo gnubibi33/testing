@@ -1,3 +1,3 @@
-#FROM httpd:latest
+FROM httpd:latest
 #FROM drupal:latest
-FROM caddy:latest
+#FROM caddy:latest
