@@ -1,2 +1,2 @@
-FROM caddy:2.6.1-alpine
+FROM httpd:latest
 #FROM drupal:latest
